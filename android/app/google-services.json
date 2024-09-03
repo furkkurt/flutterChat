@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "984435071481",
+    "project_id": "chat-20050",
+    "storage_bucket": "chat-20050.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984435071481:android:0dbceba3abd6fdccf08528",
+        "android_client_info": {
+          "package_name": "com.chat.makinda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN7Z3AOk0Pnbby4Lsblr493T1Y-gwKoZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984435071481:android:de3f958dbb762832f08528",
+        "android_client_info": {
+          "package_name": "com.makinda.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN7Z3AOk0Pnbby4Lsblr493T1Y-gwKoZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984435071481:android:22614537cc828dccf08528",
+        "android_client_info": {
+          "package_name": "makinda.chat.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN7Z3AOk0Pnbby4Lsblr493T1Y-gwKoZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
